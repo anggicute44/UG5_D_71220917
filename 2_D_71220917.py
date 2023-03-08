@@ -25,3 +25,6 @@ def hitung_mobil():
     print("Jumlah mobil dari Surabaya: ", jumlahSur)
     print("Jumlah mobil dari Jogja: ", jumlahJog)
     print("Jumlah mobil dari Magelang: ", jumlahMag)
+
+hitung_mobil(asal)
+
